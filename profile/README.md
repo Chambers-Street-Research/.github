@@ -12,10 +12,6 @@ Chambers Street Research develops quantitative frameworks to understand and act 
 
 ### History
 
-Founded in **2025 in New York, New York**, Chambers Street Research began as a small group of students seeking a more applied and quantitative approach to understanding markets.
-
-With early support from the **Westbury United Methodist Church**, the group established its initial structure and began developing its research and educational framework.
-
 Today, Chambers Street Research is a multi-strategy research group focused on **probability-based analysis, prediction markets, quantitative research, and systematic thinking**.
 
 ### Mission
@@ -116,22 +112,6 @@ Beyond technical knowledge, we emphasize:
 * Discipline
 * Critical thinking
 * Decision-making under uncertainty
-
----
-
-## Team
-
-### Research
-
-Our research team explores quantitative frameworks, market behavior, and systematic approaches to decision-making.
-
-### Strategy
-
-**Keenan Grooms**
-
-### Quantitative Research
-
-**Orson Lin**
 
 ---
 
